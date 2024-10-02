@@ -1,2 +1,1 @@
-# prep-course-henry
-este es un repositorio de prueba
+prueba de como crear un repositorio y mandarlo a la pc de forma local
